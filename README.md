@@ -506,4 +506,4 @@ This project is licensed under the MIT License.
 
 ## Developer
 
-Pushkar Kumar Saini
+Varun Kumar Singh
